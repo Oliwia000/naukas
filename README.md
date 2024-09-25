@@ -1,7 +1,7 @@
 Po odpaleniu apliakcji 
 ![start](https://github.com/user-attachments/assets/3c3d7c14-1d55-4f3f-a021-670c3d19ae35)
 
- komunikat poprawda odpowiedź
+ komunikat poprawna odpowiedź
 ![alertpoprawne](https://github.com/user-attachments/assets/04a37669-8cd7-41e1-9ac5-fd6b4ddbddb7)
 
  komunikat zła odpowiedź
