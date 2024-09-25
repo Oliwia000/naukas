@@ -21,19 +21,15 @@
                 <Label Text="słowo na język" TextColor="Black"/>
                 <Label Text="angielski" TextColor="Black" />
             </VerticalStackLayout>
+
             <VerticalStackLayout Grid.Row="1">
-                <Label Text="słowo"  HorizontalOptions="Center" VerticalOptions="Center"  FontAttributes="Bold" x:Name="pytanie" FontSize="48"  Margin="50" TextColor="Black"/>
+                <Label Text="słowo" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" x:Name="pytanie" FontSize="48" Margin="50" TextColor="Black"/>
                 <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
-                    <Entry Placeholder="" BackgroundColor="#FFFFFF" TextColor="Black" x:Name="Answer" WidthRequest="300"  Margin="8"  />
-                    <Button Text="Sprawdź" 
-                            Clicked="Button_Clicked" 
-                            x:Name="CounterBtn" 
-                            BackgroundColor="#415A77" 
-                            TextColor="White"
-                            Margin="8"/>
+                    <Entry Placeholder="Wpisz odpowiedź" BackgroundColor="#FFFFFF" TextColor="Black" x:Name="Answer" WidthRequest="300" Margin="8" />
+                    <Button Text="Sprawdź" Clicked="Button_Clicked" x:Name="CounterBtn" BackgroundColor="#415A77" TextColor="White" Margin="8"/>
                 </StackLayout>
             </VerticalStackLayout>
-               
+
             <HorizontalStackLayout Grid.Row="2" Spacing="400" HorizontalOptions="Center">
                 <Label x:Name="live" Text="Życia: 3" TextColor="Black"/>
                 <Label x:Name="tlum" Text="Przetłumaczone: 0" TextColor="Black"/>
@@ -41,7 +37,6 @@
         </Grid>
     </ScrollView>
 </ContentPage>
-
 
 
 
