@@ -1,4 +1,4 @@
-     Po odpaleniu apliakcji 
+  Początkowy stan aplikacji
 ![start](https://github.com/user-attachments/assets/3c3d7c14-1d55-4f3f-a021-670c3d19ae35)
 
            komunikat poprawna odpowiedź
